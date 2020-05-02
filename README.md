@@ -12,7 +12,7 @@ The attributes are (dontated by Riccardo Leardi, riclea '@' anchem.unige.it )
 7) Flavanoids
 8) Nonflavanoid phenols
 9) Proanthocyanins
-10)Color intensity
-11)Hue
-12)OD280/OD315 of diluted wines
-13)Proline
+10) Color intensity
+11) Hue
+12) OD280/OD315 of diluted wines
+13) Proline
